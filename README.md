@@ -1,1 +1,1 @@
-# Credit-Card-Approval
+# Classification and Regression
